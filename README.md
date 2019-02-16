@@ -9,6 +9,7 @@ A list of papers about creating dialog systems using deep nets! **Please feel fr
     * Reinforcement Learning and Adversarial 
   * [Chat Bots](#chat-bots)
     * General
+    * Retrieval Methods
     * Rich Dialog Context
     * Diversity
     * Inteprebility
@@ -131,6 +132,17 @@ Alessandro Sordoni et al., *arXiv* 2015]
 * [Exemplar Encoder-Decoder for Neural Conversation Generation](http://aclweb.org/anthology/P18-1123) Gaurav Pandey et al 2018
 
 * Coupled Context Modeling for Deep Chit-Chat: Towards Conversations between Human and Computer(http://www.ruiyan.me/pubs/KDD2018Yan.pdf) Rui Yan et al KDD 2018.
+
+* [Variational Autoregressive Decoder for Neural Response Generation](http://aclweb.org/anthology/D18-1354) Jiachen Du et al 2018.
+
+### Retrieval Methods
+* [Multi-view Response Selection for Human-Computer Conversation](http://www.aclweb.org/anthology/D16-1036) Xiangyang Zhou et al 2016
+
+* [Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots](https://arxiv.org/abs/1612.01627) Yu Wu 2017
+
+* [Modeling multi-turn conversation with deep utterance aggregation](https://arxiv.org/abs/1806.09102) Zhuosheng Zhang et al 2018
+
+* [Multi-Turn Response Selection for Chatbots with Deep Attention Matching Network](http://www.aclweb.org/anthology/P18-1103) Xiangyang Zhang et al 2018.
 
 ### Rich Dialog Context
 * [A Persona-Based Neural Conversation Model](https://arxiv.org/abs/1603.06155) Jiwei Li et al, *arXiv*, 2016
